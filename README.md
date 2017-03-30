@@ -55,7 +55,7 @@ Instructions to run the application:
 6. Open Postman app and test the following urls (Please note that the GET, POST and DELETE calls have to be made by choosing the appropriate method from the dropdown on the top-left corner of the postman app)
        
     a. POST - http://localhost:8080/signup 
-         For POST signup and login the parameters have to be passed in the "Body"  by selecting "x-www-form-urlencoded radio button" and giving the key values as
+         For POST signup and login the parameters have to be passed in the "Body"  by selecting "x-www-form-urlencoded radio button" and  by clicking on the "Body" option in the postman appm give the keys and values
          email                        cirtual@gmail.com
          password                     test
          {Success Message: post signup Okay
