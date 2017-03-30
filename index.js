@@ -52,7 +52,7 @@ app.post('/signup',
 
 app.get('/login',
   function(req, res){
-    res.json({"login" : "This is a post request"});
+    res.json({"login" :"Credentials not Found/Matched"});
   });
   
 app.post('/login', 
